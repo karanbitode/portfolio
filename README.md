@@ -1,1 +1,1 @@
-# https://github.com/karanbitode/portfolio
+# https://karanbitode.github.io/portfolio
